@@ -15,5 +15,9 @@
   "bugs": {
     "url": "https://github.com/sushmitha2705/Sushmitha-bz/issues"
   },
-  "homepage": "https://github.com/sushmitha2705/Sushmitha-bz#readme"
+  "homepage": "https://github.com/sushmitha2705/Sushmitha-bz#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "expresss": "0.0.0"
+  }
 }
