@@ -17,7 +17,7 @@
   },
   "homepage": "https://github.com/sushmitha2705/Sushmitha-bz#readme",
   "dependencies": {
-    "express": "^4.17.1",
+    "express": "^4.17.3",
     "expresss": "0.0.0"
   }
 }
